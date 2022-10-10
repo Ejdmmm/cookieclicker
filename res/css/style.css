@@ -1,0 +1,32 @@
+#cookie {
+  max-width: 300px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+#counter {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 30px;
+  font-family:'Combo', cursive;;
+  color: red;
+}
+body {
+  background: url("../img/gzm2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button {
+  display: table;
+  text-align: center;
+  margin: 0 auto;
+  height: 32px;
+  background-color: darkgrey;
+
+}
+h1 {
+  text-align: center;
+  color:brown;
+}
+
+
